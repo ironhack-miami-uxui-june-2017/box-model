@@ -1,0 +1,32 @@
+header {
+  background-color: #b5c0c9;
+  text-align: right;
+}
+
+h1 {
+  color: #4d4c4f;
+}
+
+p {
+  color: #777e7b;
+}
+
+aside {
+  width: 20%;
+  background-color: #cbd0d3;
+}
+
+h2 {
+  color: #406598;
+}
+
+main {
+  background-color: #dde2e3;
+}
+
+div {
+  width: 500px;
+  margin: 0 auto;
+}
+
+/* footer #b6bdc0 */
